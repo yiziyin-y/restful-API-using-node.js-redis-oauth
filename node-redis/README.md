@@ -4,13 +4,6 @@ You can install NodeJS by downloading the latest binaries for your desired opera
 
 ## Redis Installation
 
-### Mac
-![redis](https://res.cloudinary.com/ichtrojan/image/upload/v1535585936/Screenshot_2018-08-30_at_12.38.41_AM_rvrkp5.png)
-
-you can install redis uning [homebrew](http://brew.sh).
-
-run `brew install redis` in terminal to install redis on your mac using homebrew, assuming you have homebrew installed.
-
 ### Linux
 
 You can learn how to install redis on Linux [here](https://community.pivotal.io/s/article/How-to-install-and-use-Redis-on-Linux)
@@ -21,10 +14,6 @@ You can learn how to install redis on Windows [here](https://redislabs.com/ebook
 
 ## Setting up
 
-![npm start](https://res.cloudinary.com/ichtrojan/image/upload/v1535585500/Screenshot_2018-08-30_at_12.31.20_AM_vluh0e.png)
-
-* clone the repo
-* change directory
 * run `npm install`
 * run `npm start`
 * visit http://localhost:4040
