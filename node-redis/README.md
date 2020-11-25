@@ -20,7 +20,6 @@ You can learn how to install redis on Windows [here](https://redislabs.com/ebook
 
 
 ## Using Postman
-Make sure post is set to `x-www-form-urlencoded`
 * add plan (POST): `/users/`
 * delete plan (DELETE): `/users/{id}`
 * get a plan(GET): `/users/{id}`
