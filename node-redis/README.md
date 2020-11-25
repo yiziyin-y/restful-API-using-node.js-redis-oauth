@@ -1,4 +1,4 @@
-# API with NodeJS and REDIS Secured with Google Oauth2.0 and SHA256
+# API with NodeJS and REDIS and JsonSchema Secured with Google Oauth2.0 and SHA256
 ## NodeJS Installation
 You can install NodeJS by downloading the latest binaries for your desired operating system from their [official download page](https://nodejs.org/en/download/current/).
 
