@@ -28,7 +28,7 @@ You can learn how to install redis on Windows [here](https://redislabs.com/ebook
 * get all plan (GET): `/users`
 
 ## Commit2.0: add support for ElasticSearch and Kafka
-*cache index queue using kafka
-*dequeue data from kafka
-*automatically build index to ElasticSearch
-*able to do search using kibana
+* cache index queue using kafka
+* dequeue data from kafka
+* automatically build index to ElasticSearch
+* able to do search using kibana
