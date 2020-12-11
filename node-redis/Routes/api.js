@@ -67,6 +67,9 @@ Route.post("/users", redis.add_user);
 // delete a user
 Route.delete("/users/:id", redis.delete_user);
 
+// delete all
+Route.delete("/users", redis.delete_all);
+
 // get a user by id
 Route.get('/users/:id', redis.get_user)
 
